@@ -64,25 +64,7 @@ The Arduino checks the status of both parking slot sensors.
 
 ## Circuit Diagram
 
-The circuit diagram will be added here.
-
-<!-- Add your circuit diagram image below -->
-
-![Circuit Diagram](<img src="https://github.com/user-attachments/assets/129430a2-b1d7-4714-912a-48f472b0e723" width="600" alt="Circuit Diagram">)
-)
-
-## Project Images
-
-![Smart Parking System](<img width="1280" height="721" alt="WhatsApp Image 2026-11-25 at 3 05 08 PM" src="https://github.com/user-attachments/assets/b490cc36-5a65-49f1-b113-8c3dd30baa63" />
-)
-
-![Working Model]()
-
-## Source Code
-
-The Arduino source code is available in the `src` folder.
-
-File: `smart_parking_slot_indicator.ino`
+![Circuit Diagram](https://github.com/user-attachments/assets/c1db9bd3-e56d-4753-8d97-d4d8b469b8c2)
 
 ## Applications
 
@@ -109,6 +91,6 @@ File: `smart_parking_slot_indicator.ino`
 
 ## Author
 
-Deepika Sangu
+**Deepika Sangu**
 
 ECE Graduate | Embedded Systems | Robotics & Electronics
