@@ -66,13 +66,11 @@ The Arduino checks the status of both parking slot sensors.
 
 ![Circuit Diagram](https://github.com/user-attachments/assets/c1db9bd3-e56d-4753-8d97-d4d8b469b8c2)
 
-## Project Images
-
-![Smart Parking System](parking-project.jpg)
-
 ## Working Model
 
-[Watch the Working Model](parking-demo-muted.mp4)
+![Working Model](https://github.com/Deepikasangu/Arduino-smart-parking-slot-indicator/blob/main/parking-project.jpg?raw=true)
+
+[![Watch Working Model Video](https://github.com/Deepikasangu/Arduino-smart-parking-slot-indicator/blob/main/parking-project.jpg?raw=true)](https://github.com/Deepikasangu/Arduino-smart-parking-slot-indicator/blob/main/parking-demo-muted.mp4)
 
 ## Applications
 
